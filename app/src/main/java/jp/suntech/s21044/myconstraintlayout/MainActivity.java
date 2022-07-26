@@ -98,6 +98,7 @@ public class MainActivity extends AppCompatActivity {
                     output2.setText("");
                     output3.setText("");
                     output4.setText("");
+                    output5.setText("");
                     break;
             }
 
