@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BMICalculatorS044</string>
+    <string name="app_name">BMI計算機</string>
     <string name="tv_title">必要な情報を入力してください</string>
     <string name="age">年齢</string>
     <string name="a">歳</string>
